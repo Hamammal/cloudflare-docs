@@ -1,4 +1,4 @@
-name: Anchor link audit
+[![Anchor link audit](https://github.com/Hamammal/cloudflare-docs/actions/workflows/anchor-link-audit.yml/badge.svg)](https://github.com/Hamammal/cloudflare-docs/actions/workflows/anchor-link-audit.yml)name: Anchor link audit
 
 # **What it does**: Regularly audits our documentation for broken internal anchor links.
 # **Why we have it**: B/c checking on the individual commit push level is too granular, but we want to address broken headers periodically.
